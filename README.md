@@ -1,11 +1,4 @@
 # HPomb v2020.02 Coming Soon
-<center>
-<a href="https://twitter.com/secanonm"><img src="https://img.shields.io/twitter/follow/secanonm?style=social&logo=twitter"
-            alt="follow on Twitter"></a> &nbsp
-<a href="https://youtu.be/e_LwwGJ6ApQ" target="_blank">
-<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/e_LwwGJ6ApQ?style=social">
-</a>
-</center>
 
 <H5 class="" align="right">
   Created By Secanonm
@@ -14,9 +7,17 @@
 <img src="https://secanonm.in/hpomb/assets/img/hpomb/hpomb.jpg" alt="look">
 
 ![platforms](https://img.shields.io/badge/Platforms-Android%20%7C%20Linux%20%7C%20MacOS-orange)
-![Analisy](https://img.shields.io/badge/Version-2020.12Beta-success)
+![Analisy](https://img.shields.io/badge/Version-2020.02 Upcoming Version-success)
 ![License: GPL v3](https://img.shields.io/badge/License%202.0-Apache-blue.svg)
 <br>
+
+<center>
+<a href="https://twitter.com/secanonm"><img src="https://img.shields.io/twitter/follow/secanonm?style=social&logo=twitter"
+            alt="follow on Twitter"></a> &nbsp
+<a href="https://youtu.be/e_LwwGJ6ApQ" target="_blank">
+<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/e_LwwGJ6ApQ?style=social">
+</a>
+</center>
 
 ## Features:
 
