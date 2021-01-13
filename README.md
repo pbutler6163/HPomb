@@ -1,4 +1,4 @@
-# HPomb v2020.12Beta
+# HPomb v2020.02 Coming Soon
 <center>
 <a href="https://twitter.com/secanonm"><img src="https://img.shields.io/twitter/follow/secanonm?style=social&logo=twitter"
             alt="follow on Twitter"></a> &nbsp
@@ -20,19 +20,19 @@
 
 ## Features:
 
-#### > Bombing
+> #### Bombing
 - Mail Bombing
 - Call Bombing
 - SMS Bombing
-#### > Spoofing
+> #### Spoofing
 - Mail Spoofing
-#### > Anonymity 
+> #### Anonymity 
 - Change IP Address Every Seconds
 - Change MAC Address Every Seconds
 - Change OS Details Every Seconds
-####> Easy to use 
-####> Community Support 
-####> Automatic updating mechanism
+> #### Easy to use 
+> #### Community Support 
+> #### Automatic updating mechanism
 
 
 ## Requirements
