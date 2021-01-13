@@ -20,19 +20,19 @@
 
 ## Features:
 
-#### Bombing
+#### > Bombing
 - Mail Bombing
 - Call Bombing
 - SMS Bombing
-#### Spoofing
-- SMS Spoofing
-#### Anonymity 
-- Hide IP Address Every Seconds
-- Hide MAC Address Every Seconds
-- Hide OS Details Every Seconds
-#### Easy to use 
-#### Community Support 
-#### Automatic updating mechanism
+#### > Spoofing
+- Mail Spoofing
+#### > Anonymity 
+- Change IP Address Every Seconds
+- Change MAC Address Every Seconds
+- Change OS Details Every Seconds
+####> Easy to use 
+####> Community Support 
+####> Automatic updating mechanism
 
 
 ## Requirements
