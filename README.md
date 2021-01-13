@@ -7,7 +7,7 @@
 <img src="https://secanonm.in/hpomb/assets/img/hpomb/hpomb.jpg" alt="look">
 
 ![platforms](https://img.shields.io/badge/Platforms-Android%20%7C%20Linux%20%7C%20MacOS-orange)
-![Analisy](https://img.shields.io/badge/Version-2020.02 Upcoming Version-success)
+![Analisy](https://img.shields.io/badge/Version-2020.02%20Upcoming%20Version-success)
 ![License: GPL v3](https://img.shields.io/badge/License%202.0-Apache-blue.svg)
 <br>
 
