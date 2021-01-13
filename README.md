@@ -13,7 +13,7 @@
 <p align="center">HPomb Is Socail Engineering Tool , Used For Bombing , Spoofing and Anonymity Available For Linux And Android(Termux)</p><br>
 <img src="https://secanonm.in/hpomb/assets/img/hpomb/hpomb.jpg" alt="look">
 
-![platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20Android%20%7C%20Linux%20%7C%20MacOS-orange)
+![platforms](https://img.shields.io/badge/Platforms-Android%20%7C%20Linux%20%7C%20MacOS-orange)
 ![Analisy](https://img.shields.io/badge/Version-2020.12Beta-success)
 ![License: GPL v3](https://img.shields.io/badge/License%202.0-Apache-blue.svg)
 <br>
@@ -36,8 +36,7 @@
 
 
 ## Requirements
-* Python3
-* requests 
+* Python3.6 =<
 
 ## Usage:
 
