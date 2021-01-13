@@ -20,15 +20,20 @@
 
 ## Features:
 
+#### Bombing
 - Mail Bombing
 - Call Bombing
 - SMS Bombing
-- Unlimited  and super-fast bombing (against abusing )
-- International bombing available
-- Community Support 
-- fully Help 
-- Automatic updating mechanism
-- Easy to use 
+#### Spoofing
+- SMS Spoofing
+#### Anonymity 
+- Hide IP Address Every Seconds
+- Hide MAC Address Every Seconds
+- Hide OS Details Every Seconds
+#### Easy to use 
+#### Community Support 
+#### Automatic updating mechanism
+
 
 ## Requirements
 * Python3
